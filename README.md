@@ -7,3 +7,7 @@ API https://www.random.org/integers/?num=1&min=1&max=500&col=1&base=10&format=pl
 
 ## React router dom
 yarn add react-router-dom
+
+# React query
+https://tanstack.com/query/v4
+yarn add @tanstack/react-query
